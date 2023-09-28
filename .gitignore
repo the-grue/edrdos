@@ -1,5 +1,3 @@
-syntax: glob
-
 command/RESP1
 command/RESP2
 command/RESP3
